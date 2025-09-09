@@ -11,6 +11,7 @@ It provides a Python-based pipeline to train, save, and deploy predictive models
 - Dockerized for easy deployment (AWS, Render, Railway, etc.)
 - Designed to integrate with the LimaHealth Node.js backend
 
+```
 ## 📂 Project Structure
 
 LimaModel/
@@ -21,6 +22,7 @@ LimaModel/
 ├── tests/ # Unit tests
 ├── Pipfile # Pipenv dependencies
 └── Dockerfile # Containerization for deployment
+```
 
 
 ## 🚀 Quick Start
